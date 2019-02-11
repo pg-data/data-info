@@ -1,0 +1,12 @@
+#Fuel Mix
+
+Fuel:
+
+{
+  Type: [
+         {
+          INTERVALEST: "2018-10-09 1:45:00 PM",
+          CATEGORY: "Coal",
+          ACT: "43797",
+          FUEL_CATEGORY: "Coal (43,797 MW)"
+},
