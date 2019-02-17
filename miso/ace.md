@@ -1,4 +1,7 @@
-# Area Control Error:
+# Area Control Error
+
+###  Terms:
+
 The instantaneous difference between a Balancing Authority's net actual and scheduled interchange within a control area
 
 Interchange:
