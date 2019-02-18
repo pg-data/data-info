@@ -13,3 +13,10 @@ This graph illustrates how the ISO meets demand while managing the quickly chang
 
 Link to real time data, provided in CSV format:
 <http://www.caiso.com/outlook/SP/demand.csv>
+
+## Glossary:
+
+Demand — The total amount of electricity used at any given moment in time, usually
+measured in kW or MW.
+
+Demand curve — A graph showing demand plotted across time.
