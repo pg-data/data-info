@@ -9,7 +9,7 @@ of electricity across the high-voltage, long-distance power lines that make up
 
 Every five minutes, CAISO forecasts electrical demand and dispatches the
 lowest cost generator to meet demand while ensuring enough transmission
-capacity for delivery of power. The Data provided is in CSV format.
+capacity for delivery of power. The API Data link is provided in CSV format.
 [Today’s Outlook Page](http://www.caiso.com/TodaysOutlook/Pages/default.aspx),
 shows public information about demand, supply, and emissions in real time.
 
